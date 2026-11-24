@@ -1,0 +1,10 @@
+MODELO ROCA CON SOGA PARA UNITY
+
+Incluye OBJ, MTL y dos texturas PNG. Sin fondo, con geometria 3D real.
+1. Copia los 4 archivos OBJ, MTL y PNG a una misma carpeta dentro de Assets de Unity.
+2. Arrastra Roca_y_soga.obj a la escena. Eje vertical Y.
+3. Si Unity no vincula los materiales automaticamente, crea dos materiales: Roca y Soga. Asigna sus respectivas texturas a Base Map (URP) o Albedo (Built-in).
+4. Unity importa el OBJ como malla con submeshes para ambos materiales.
+5. El modelo fue recreado artisticamente desde una imagen 2D y no es un escaneo 3D preciso.
+
+Medidas aproximadas: ancho 3.8 m incluyendo cuerda, alto 2.6 m. Ajusta Scale en Unity a gusto.
